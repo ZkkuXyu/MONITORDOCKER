@@ -4,6 +4,7 @@ Monitoring VPS all in one
 
 ![image](https://github.com/user-attachments/assets/a73656ab-6cfe-4e54-bfc4-1a1505c022af)
 
+Install 
 ```sh
 sudo apt install glances
 ```
